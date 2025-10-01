@@ -22,6 +22,9 @@ dependencies:
   permission_handler: ^11.0.1
   intl: ^0.18.1
   flutter_local_notifications: ^16.3.0
+  # Add these for PDF handling (optional for now)
+  # pdf: ^3.10.4
+  # printing: ^5.9.2
 
 dev_dependencies:
   flutter_test:
